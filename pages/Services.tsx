@@ -6,7 +6,7 @@ import Footer from '../app/components/Footer'
 
 function Services() {
   return (
-    <div>
+    <div className='max-w-7xl mx-auto'>
         <Header />
         <Service />
         <C />

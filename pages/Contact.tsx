@@ -5,7 +5,7 @@ import Footer from '../app/components/Footer'
 
 function Contact() {
   return (
-    <div>
+    <div className='max-w-7xl mx-auto'>
         <Header />
         <C />
         <Footer />

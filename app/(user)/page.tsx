@@ -6,7 +6,7 @@ import Landing from '../components/Landing'
 
 function HomePage() {
   return (
-    <div className='max-w-7xl mx-auto'>
+    <div className='max-w-7xl mx-auto w-screen'>
       <Header />  
     <Landing />
    <Footer />

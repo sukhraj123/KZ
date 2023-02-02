@@ -5,7 +5,7 @@ import Header from '../app/components/Header'
 
 function Clients() {
   return (
-    <div>
+    <div className='max-w-7xl mx-auto'>
         <Header />
         <Client />
         <Footer />
