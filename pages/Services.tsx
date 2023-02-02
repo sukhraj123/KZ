@@ -1,17 +1,18 @@
 import React from 'react'
 import Header from '../app/components/Header'
-import A from '../app/components/A'
+import Service from '../app/components/Service'
+import C from '../app/components/C'
 import Footer from '../app/components/Footer'
 
-function About() {
+function Services() {
   return (
-    
     <div>
         <Header />
-        <A />
+        <Service />
+        <C />
         <Footer />
     </div>
   )
 }
 
-export default About
+export default Services

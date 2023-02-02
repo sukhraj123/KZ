@@ -1,16 +1,17 @@
 import React from 'react'
-import Client from '../app/components/Client'
-import Footer from '../app/components/Footer'
 import Header from '../app/components/Header'
+import C from '../app/components/C'
+import Footer from '../app/components/Footer'
 
-function Clients() {
+function Contact() {
   return (
     <div>
         <Header />
-        <Client />
+        <C />
         <Footer />
+
     </div>
   )
 }
 
-export default Clients
+export default Contact
