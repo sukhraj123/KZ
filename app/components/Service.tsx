@@ -11,7 +11,7 @@ function Service() {
 
             <h2 className='text-4xl space-x-10 text-center'><b>WEBSITE</b></h2>
             <br /><br />
-            <p className='lg:text-2xl'>
+            <p className='lg:text-2xl text-center'>
                 Customized Design for your Brand <br />
 Mobile - Optimized Design<br />
 Order Online System<br />
