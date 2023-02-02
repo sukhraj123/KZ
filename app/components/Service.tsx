@@ -6,12 +6,12 @@ function Service() {
         
 
 
-        <div className='max-w-7xl mx-auto flex'>
+        <div className='max-w-7xl mx-auto sm:block lg:flex'>
         <div>
 
             <h2 className='text-4xl space-x-10 text-center'><b>WEBSITE</b></h2>
             <br /><br />
-            <p className='text-2xl'>
+            <p className='lg:text-2xl'>
                 Customized Design for your Brand <br />
 Mobile - Optimized Design<br />
 Order Online System<br />
