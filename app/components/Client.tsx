@@ -3,7 +3,7 @@ import "../../styles/globals.css"
 
 function Client() {
   return (
-    <div className='max-w-2xl mx-auto pt-60 pb-40 '>
+    <div className='max-w-2xl mx-auto pt-20 pb-40 '>
 <div className='py-50'>
 <div className='lg:flex  '>
     <a href=""><img src="/1.jpg" alt="" /></a>
